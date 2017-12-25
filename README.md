@@ -1,2 +1,2 @@
-# FonisGit
-radionica za git, repo koji smo koristili
+# FonisGit :O
+Osnove gita koji fonis radi 12.25.2017
